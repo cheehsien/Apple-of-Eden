@@ -1,6 +1,7 @@
 # Apple
 
 **Author:** Qixian Chen, Yixiao Xiao, Yiyan Zhou
+
 **Date:** March 2026
 
 Utilizing facial and hand tracking through ml5.js, this project allows users to interact with a digital apple through scaling, grabbing, and biting actions.
